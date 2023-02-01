@@ -33,4 +33,5 @@ ApplicationRecord.transaction do
   end
 
   puts "Done!"
+  testing push;
 end
